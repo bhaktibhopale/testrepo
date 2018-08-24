@@ -1,4 +1,4 @@
 class test
 {
-
+int a;
 }
